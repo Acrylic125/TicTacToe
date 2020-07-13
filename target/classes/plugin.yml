@@ -1,0 +1,8 @@
+name: TicTacToe
+version: 1.0-SNAPSHOT
+main: com.acrylic.tictactoe.TicTacToe
+
+commands:
+  ttt:
+    description: Tic-Tac-Toe
+    usage: /<command>

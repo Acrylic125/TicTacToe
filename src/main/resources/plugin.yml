@@ -1,0 +1,8 @@
+name: TicTacToe
+version: ${project.version}
+main: com.acrylic.tictactoe.TicTacToe
+
+commands:
+  ttt:
+    description: Tic-Tac-Toe
+    usage: /<command>
